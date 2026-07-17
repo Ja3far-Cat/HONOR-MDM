@@ -1,0 +1,8 @@
+{
+  "name": "Honor MDM SIEM Bridge",
+  "description": "MDM solution for collecting Honor smartphone logs and forwarding to SIEM for ISO 27001 compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
